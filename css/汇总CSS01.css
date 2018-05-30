@@ -1,0 +1,278 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container01{
+	margin: 2% 23% ;
+	align-content: center;
+}
+
+#container02{
+	margin: 2% 10% ;
+	align-content: center;
+}
+
+#container1{
+	align-content: center;
+}
+
+#container2{
+	align-content: center;
+	margin: 2% 8% ;
+}
+
+#container3{
+	align-content: center;
+	margin: 2% 8% 5%;
+}
+
+#container4{
+	align-content: center;
+	margin: 2% 8% ;
+}
+
+#container5{
+	align-content: center;
+	margin: 0% 20% 2%;
+}
+
+#container6{
+	align-content: center;
+	margin: 2% 10% ;
+}
+
+.pic1{
+	margin: 2% 30% ;
+	width: 40%;
+	height:35%;
+}
+
+.pic2{
+	margin: 2% 25%;
+	width: 50%;
+	height:40%;
+}
+
+.pic3{
+	margin: 0% 30%;
+	width: 40%;
+	height:20%;
+}
+
+.h01{
+	align-content: center;
+	font-family:"微软雅黑";
+	font-size: 25px;
+	color: #194780;
+	text-align: center;
+}
+
+.p01{
+	align-content: center;
+	text-align:left;
+	font-family: "微软雅黑 Light";
+	color: darkgrey;
+	font-size: 15px;
+	width: 50%;
+	margin: 2% 25%;
+	text-indent: 2em;
+}
+
+.p02{
+	align-content: center;
+	text-align: center;
+	font-family: "微软雅黑";
+	color: #194780;
+	font-size: 18px;
+}
+
+.h02{
+	align-content: center;
+	text-align: center;
+	font-family: "微软雅黑 Light";
+	color: azure;
+	font-size: 18px;
+	background-color:#194780;
+	width: 20%;
+	margin: 1% 40% 4%;
+	padding: 0.5%;
+}
+.h03{
+	align-content: center;
+	text-align: center;
+	font-family: "微软雅黑 Light";
+	color: azure;
+	font-size: 18px;
+	background-color:#194780;
+	width: 20%;
+	margin: 1% 40% 1%;
+	padding: 0.5%;
+}
+.bgbox{
+	align-content: center;
+	text-align: center;
+	background-color:rgba(111,110,110,0.11);
+	width: 60%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+	margin: 5% 20%;
+	font-family:"微软雅黑";
+	font-size: 15px;
+	color:#5A5A5A;
+	
+}
+
+.bgbox2{
+	align-content: center;
+	text-align: center;
+	background-color:rgba(111,110,110,0.11);
+	width: 60%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+	margin: -2% 20% 5%;
+	font-family:"微软雅黑";
+	font-size: 15px;
+	color:#5A5A5A;
+	
+}
+.apply5{
+	overflow:hidden;
+	width: 1000px;
+	height: 1408px;
+	margin: 0 auto;
+	background: url('../img/shenq03.jpg') no-repeat center top ;
+	background-size: 100% 100%;
+}
+.t5{
+	display: block;
+	text-align: center;
+	font-size: 28px;
+	color: #14227b;
+	margin-top: 130px;
+}
+.FontR{
+	color: #c2272d;
+}
+.t5sub{
+	text-align: center;
+	font-size: 22px;
+	color: #c2272d;
+	margin: 65px 0 0 -40px;
+}
+.apply5 .ul1{
+	width: 850px;
+	margin: 105px 0 0 60px;
+}
+.apply5 .ul1 li{
+	margin: auto 10px;
+	width: 150px;
+	float: left;
+}
+.apply5 .ul1 li h6{
+	cursor: pointer;
+	padding-top: 40px;
+	color: #14227b;
+	font-size: 16px;
+	text-align: center;
+}
+
+.apply5 .ul1 li p{
+	visibility: hidden;
+	font-size: 12px;
+	color: #14227b;
+	display: block;
+	width: 150px;
+}
+.apply5 .ul1 li p span{
+	color: #c2272d;
+}
+.t5mid{
+	font-size: 18px;
+	display: block;
+	width: 280px;
+	text-align: center;
+	margin-left: 340px;
+}
+.ul2{
+	margin-left: 80px;
+}
+.ul2 li{
+	margin: auto 40px;
+	width: 180px;
+	float: left;
+}
+.ul2 li h5{
+	color: #14227b;
+	font-size: 16px;
+	text-align: center;
+}
+.ul2 li p{
+	padding-top: 10px;
+	font-size: 14px;
+	color: #14227b;
+	display: block;
+	width: 180px;
+}
+ul li{
+	float: left;
+}
+ul li p{
+	color: #14227b;
+	font-size: 12px;
+}
+.ul3{
+	margin-left:120px;
+}
+.ul3 li:nth-child(8){
+	width: 65px;
+}
+.ul4{
+	margin-left: 115px;
+}
+.ul3 li{
+	width: 55px;
+	margin: auto 12px;
+}
+.ul4 li{
+	width: 60px;
+	margin: auto 10px;
+}
+footer{
+	width: 80%;
+	margin:2% 10%;
+	padding: 0.5%;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	text-align: center;
+	align-content: center;
+	background-color: #194780;
+	color:azure;
+}
+
+.srouce{
+	align-content: center;
+	text-align: center;
+	font-size: 12px;
+	color: darkgrey;
+	margin-bottom: 5%;
+}
+
+.a01:link{
+	text-decoration: none;
+	color:#9C9B9B;
+}
+.a01:hover{
+	text-decoration: none;
+	color:#FE7678;
+}
+.a01:active{
+	text-decoration: none;
+	color: #FE7678; 
+}
+.a01:visited{
+	text-decoration: none;
+	color:#FE7678; 
+}
